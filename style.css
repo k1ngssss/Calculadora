@@ -1,0 +1,36 @@
+html {background-color: aquamarine;
+
+}
+
+h1 {font-size: 50px;
+    font-weight: bolder;
+    text-align: center;
+
+}
+
+form {margin-top: 4%;
+
+}
+
+label, input {font-size: 25px;
+       font-weight: bolder;
+       margin-left: 5%;
+       
+
+}
+
+.buttonreset, button {font-size: 25px;
+    font-weight: bolder;
+    margin-left: 5%;
+    border-radius: 8px; 
+    background-color: rgb(255, 255, 255);
+    color: black;
+
+}
+
+.calculadora {font-size: 20px;
+    font-weight: bolder;
+    margin-left: 5%;
+    margin-top: 2%;
+
+}
